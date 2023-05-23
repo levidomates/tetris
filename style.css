@@ -1,0 +1,8 @@
+canvas {
+    width:300px;
+    height:600px;
+    background-color:#9b9b9b;
+    margin-left:50%;
+    margin-top:5%;
+    transform:translate(-50%,0);
+}
