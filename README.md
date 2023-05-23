@@ -1,5 +1,3 @@
-# tetris
+# Tetris
 
-Basic tetris game 
-
-![ezgif com-video-to-gif (1)](https://github.com/levidomates/tetris/assets/65045005/856ce08f-1163-4a85-9c70-f688c0cb71d7)
+![Ekran Alıntısı](https://github.com/levidomates/tetris/assets/65045005/a86eb557-34e7-432e-9fcf-fff36f9c64ac)
